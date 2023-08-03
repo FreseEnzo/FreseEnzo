@@ -1,6 +1,6 @@
 # **Robotik Kaiser Frese**
  <div id="top" align ="center" >
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=998&color=0094F5&center=false&vCenter=false&width=700&lines=Learning+Unity,+C++ +and +Python. alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=998&color=0094F5&center=false&vCenter=false&width=700&lines=Learning+Unity,+Cpp+and +Python="Typing SVG" />
   </div>
 
 Institute Military of Engineering (IME), RJ-Brazil.
