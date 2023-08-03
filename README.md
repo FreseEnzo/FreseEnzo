@@ -1,8 +1,8 @@
 # **Robotik Kaiser Frese**
  <div id="top" align ="center" >
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=998&color=0094F5&center=true&vCenter=true&width=435&lines=Hello;is+it+me+you're+looking+for" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=998&color=0094F5&center=true&vCenter=true&width=435&lines=Learning+Unity,+C#+and +Python. alt="Typing SVG" />
   </div>
-Learning Unity, C# and Python.
+
 Institute Military of Engineering (IME), RJ-Brazil.
 <!--<div align="center">
   <a href="https://github.com/FreseEnzo">
