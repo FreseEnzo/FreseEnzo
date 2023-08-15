@@ -1,7 +1,8 @@
-# **Robotik Kaiser Frese**
  <div id="top" align ="center" >
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=998&color=0094F5&center=true&vCenter=true&width=700&lines=Learning+DRL,+Cpp+and +Python"Typing SVG" />
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=4000&pause=1000&color=E1F719&background=1B14FF00&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Robotik+Kaiser+Frese" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=100&duration=3500&pause=7000&color=8000FFFF&background=1B14FF00&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Firmware+and+Software+Developer" alt="Typing SVG" /></a>
   </div>
+
 
 Institute Military of Engineering (IME), RJ-Brazil.
 <!--<div align="center">
@@ -10,7 +11,7 @@ Institute Military of Engineering (IME), RJ-Brazil.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freseenzo&layout=compact&langs_count=7&theme=dark"/>
 </div>
  -->
-<div align="center"> 
+<div align="right"> 
  
   <a href="https://instagram.com/enzofrese" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:enzo.frese.g@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
