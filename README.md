@@ -18,7 +18,7 @@ Institute Military of Engineering (IME), RJ-Brazil.
   <a href="https://www.linkedin.com/in/enzo-frese-378420203" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://discord.gg/#EnzoFrese#1793" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/freseenzo/freseenzo/blob/output/github-contribution-grid-snake.svg)
+ 
 
 </div>
   
